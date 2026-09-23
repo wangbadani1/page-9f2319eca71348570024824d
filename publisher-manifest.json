@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2ae8892ce11672317a8775cf",
+  "owner": "wangbadani1",
+  "repo": "page-9f2319eca71348570024824d",
+  "title": "狼塔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9f2319eca71348570024824d",
+      "a": "狼塔",
+      "b": "稳定全球clash加速器",
+      "entity": "狼塔",
+      "brand": "狼塔",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "991961e023929066bf1894e1cbd2c8ba8e499a39db18fce10ff9c1000a4d3b63",
+      "content": {
+        "primary_entity": "狼塔",
+        "keyword1": "狼塔",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，Windows、macOS、Android、iOS 与路由器均有对应方案，导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐、装好客户端，狼塔带你稳连全球网络。",
+          "AI_CLOSING_TITLE": "三步开启狼塔之旅",
+          "AI_DESCRIPTION": "，狼塔提供多种海外加速套餐，从基础版到团队版按需匹配流量与设备数。Clash 订阅支持 Windows、macOS、Android、iOS 与路由器，导入后即可连接全球节点，适合日常浏览、流媒体与游戏加速需求。",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和订阅周期三个角度挑选合适方案。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人使用，100GB 月流量覆盖日常浏览与轻量视频。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备，IPLC 专线与流媒体解锁兼顾娱乐与游戏。",
+          "AI_FEATURE_TEXT_3": "团队版含 1000GB 流量和 20 台设备，适合小型团队集中管理。",
+          "AI_FEATURE_TITLE_1": "单人与入门选择",
+          "AI_FEATURE_TITLE_2": "多设备均衡之选",
+          "AI_FEATURE_TITLE_3": "团队共享方案",
+          "AI_GUIDE_INTRO": "先确认设备数量与流量需求，再选择套餐并完成客户端订阅配置。",
+          "AI_GUIDE_TITLE": "狼塔使用步骤",
+          "AI_HERO_INTRO": "狼塔为需要访问海外网络的用户提供 Clash 订阅服务，覆盖 Windows、macOS、Android、iOS 与路由器设备。基础版、旗舰版、团队版按流量与设备数区分，按年付更划算，可按需选择。",
+          "AI_HERO_SUBTITLE": "狼塔加速，连接全球节点",
+          "AI_HIGHLIGHT_1": "多档套餐按流量设备选",
+          "AI_HIGHLIGHT_2": "Clash 订阅多端导入",
+          "AI_HIGHLIGHT_3": "年付方案价格更实惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别 ¥150、¥350、¥850，流量与设备数逐级提升。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确定常用设备数量和月流量需求，对照三档套餐的流量与设备上限选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入 Clash 订阅，按提示完成节点与规则配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "狼塔多端加速方案",
+          "AI_FAQ_ANSWER_1": "狼塔基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。手机、电脑和平板可分别安装客户端后同时连接，超出数量可升级更高版本。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览和视频建议 100GB 起步，多设备同时看流媒体可选择旗舰版或团队版。",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。长期使用选择按年付费，平均每月成本更低。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化，适合对视频清晰度和游戏延迟有要求的用户；团队版提供 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_5": "狼塔订阅链接可在 Clash、Shadowrocket、v2rayNG 等客户端导入，导入后更新节点即可连接。设备系统版本过低时，请先升级系统再安装对应客户端。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "狼塔一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "月付和年付的价格相差多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入常用客户端？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tpngz.cn",
+    "host": "tpngz.cn"
+  },
+  "file_hashes": {
+    "index.html": "ab2a3b474f7960c934e8fb8a998316496873882ae4bec610182ec6003c182deb",
+    "sitemap.xml": "a200e107396a09faaf33f22fc0a959c56b771189050c2f1f2653e7ad3eb1e68e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1f616e6cc98c3cfb56784ef7d5d9e27c7b7c66a54721dec7923d0c94f9be7655",
+    "robots.txt": "3648685978daee67e96c81d1d4391dd7fdf7f07dd314ccada6e066177d2685f2",
+    "358524cc026bb37c5ae7805b6839bfb1.txt": "26c9af72d5a8b8270fb1c82cf060d37782f2a804180e101727928a5ef69016a7"
+  },
+  "revision": "ccf153e64f2a86a30d614c5d96100fcece1b9c82cc53a108ed03bcb5726fdf79"
+}

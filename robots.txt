@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tpngz.cn/sitemap.xml
